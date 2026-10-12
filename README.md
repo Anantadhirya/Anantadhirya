@@ -32,7 +32,7 @@ Smart-glasses that recognize faces and display people's names in real time.
   </tr>
 </table>
 
-- **Motivation**: Having met a lot of people, we may occasionaly forget their names. We built smart-glasses prototype to help with that as our capstone project.
+- **Motivation**: Having met a lot of people, we may occasionally forget their names. We built a smart-glasses prototype to help with that as our capstone project.
 
 - **Skills & Technologies**: `PyTorch` · `FastAPI` · `PostgreSQL` · `Next.js`
 
@@ -77,7 +77,7 @@ An AI-powered elderly caregiver chatbot that uses large language models and spee
 
 - **Motivation**: We wanted to create a friendly, animated caretaker robot that makes elderly care more engaging and enables users to navigate the app through conversation. This project was developed for the Huawei Developer Competition APAC 2025.
 
-- **Skills & Technologies**: `LLMs` · `Text-to-Speech` · `Speech-to-Text` · `Next.js` · `Three.js` · `Websockets`
+- **Skills & Technologies**: `LLMs` · `Text-to-Speech` · `Speech-to-Text` · `Next.js` · `Three.js` · `WebSockets`
 
 - **Links**: [Front-End Repository](https://github.com/Ruma-AI/ruma-fe) · [Back-End Repository](https://github.com/Ruma-AI/ruma-backend)
 
@@ -123,7 +123,7 @@ A Geographic Information System (GIS) that helps the government of Trimulyo Vill
   </tr>
 </table>
 
-- **Motivation**: To make recycling education more engaging and accessible through interactive storytelling, gamified learning, and augmented reality. Developed for the Indonesian Student Innovation and Entrepreneurship Festival (FIKSI).
+- **Motivation**: To help the village government organize and visualize government-owned land records through an interactive geographic information system.
 
 - **Skills & Technologies**: `Next.js` · `Firebase` · `Leaflet` · `GIS`
 
