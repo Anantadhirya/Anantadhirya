@@ -6,8 +6,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Anantadhirya&hide_border=true&border_radius=24&background=FFFFFF00&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949EA0" width="70%" alt="GitHub Streak" />
 
-📅 Daily LeetCode · 🔥800+ Day Streak · 🏆Top 0.02% Contest Rating<br />
-<em>"The curse of discipline is that every day looks the same. The curse of indiscipline is that every year does."</em>
+📅 Daily LeetCode · 🔥800+ Day Streak · 🏆Top 0.02% Contest Rating
 
 ## Projects
 
