@@ -18,16 +18,18 @@ Smart-glasses that recognize faces and display people's names in real time.
 
 <table>
   <tr>
-    <td width="25%">
+    <td width="50%">
       <img src="./assets/projects/glare/glare-hardware.jpeg" alt="GLARE Hardware" width="100%" />
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="./assets/projects/glare/glare-sample.jpeg" alt="GLARE Usage Example" width="100%" />
     </td>
-    <td width="25%">
+  </tr>
+  <tr>
+    <td width="50%">
       <img src="./assets/projects/glare/glare-software.jpeg" alt="GLARE Software" width="100%" />
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="./assets/projects/glare/glare-team.jpeg" alt="GLARE Team" width="100%" />
     </td>
   </tr>
@@ -100,14 +102,11 @@ An environmental education project that promotes recycling through a mobile appl
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
       <img src="./assets/projects/ecostyle/home.png" alt="Ecostyle Home" width="100%" />
     </td>
-    <td width="33%">
+    <td width="50%">
       <img src="./assets/projects/ecostyle/story.png" alt="Ecostyle Story Game" width="100%" />
-    </td>
-    <td width="33%">
-      <img src="./assets/projects/ecostyle/game.png" alt="Ecostyle Recycling Game" width="100%" />
     </td>
   </tr>
 </table>
@@ -128,13 +127,15 @@ A Geographic Information System (GIS) that helps the government of Trimulyo Vill
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
       <img src="./assets/projects/sigantara/government-owned-land.png" alt="Trimulyo Village's Government-Owned Land Map" width="100%" />
     </td>
-    <td width="33%">
+    <td width="50%">
       <img src="./assets/projects/sigantara/risk-map.png" alt="Trimulyo Village Risk Map" width="100%" />
     </td>
-    <td width="33%">
+  </tr>
+  <tr>
+    <td width="50%">
       <img src="./assets/projects/sigantara/farm-map.png" alt="Trimulyo Village's Farm Map" width="100%" />
     </td>
   </tr>
@@ -156,16 +157,18 @@ A collaborative scheduling web application that helps users manage personal sche
 
 <table>
   <tr>
-    <td width="25%">
+    <td width="50%">
       <img src="./assets/projects/scheto/adding-schedules.png" alt="Adding Schedules in Scheto" width="100%" />
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="./assets/projects/scheto/managing-schedules.png" alt="Managing Schedules in Scheto" width="100%" />
     </td>
-    <td width="25%">
+  </tr>
+  <tr>
+    <td width="50%">
       <img src="./assets/projects/scheto/adding-group-schedules.png" alt="Adding Group Schedules in Scheto" width="100%" />
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="./assets/projects/scheto/group-schedules.png" alt="Group Schedules in Scheto" width="100%" />
     </td>
   </tr>
