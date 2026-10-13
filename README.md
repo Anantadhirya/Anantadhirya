@@ -13,6 +13,7 @@
 <details>
 <summary><b>GLARE - Glasses for Recognition</b></summary>
 
+<hr />
 Smart-glasses that recognize faces and display people's names in real time.
 
 <table>
@@ -37,10 +38,13 @@ Smart-glasses that recognize faces and display people's names in real time.
 - **Skills & Technologies**: `PyTorch` · `FastAPI` · `PostgreSQL` · `Next.js`
 
 - **Links**: [Front-End Repository](https://github.com/Anantadhirya/glare-app) · [Back-End Repository](https://github.com/Anantadhirya/glare)
+<hr />
 </details>
 
 <details>
 <summary><b>Parallel Flash Attention</b></summary>
+
+<hr />
 A multi-GPU implementation of the FlashAttention algorithm, exploring parallelization strategies and analyzing scalability limitations.
 
 <table>
@@ -57,10 +61,13 @@ A multi-GPU implementation of the FlashAttention algorithm, exploring paralleliz
 - **Motivation**: Attention computation in large language models is computationally expensive, motivating multi-GPU parallelization to improve scalability. This project was conducted as my undergraduate thesis research.
 
 - **Skills & Technologies**: `PyTorch` · `CUDA` · `LLMs` · `Parallel Computing`
+<hr />
 </details>
 
 <details>
 <summary><b>Ruma.AI</b></summary>
+
+<hr />
 An AI-powered elderly caregiver chatbot that uses large language models and speech technologies, developed for the Huawei Developer Competition APAC 2025.
 
 <table>
@@ -82,10 +89,13 @@ An AI-powered elderly caregiver chatbot that uses large language models and spee
 - **Skills & Technologies**: `LLMs` · `Text-to-Speech` · `Speech-to-Text` · `Next.js` · `Three.js` · `WebSockets`
 
 - **Links**: [Front-End Repository](https://github.com/Ruma-AI/ruma-fe) · [Back-End Repository](https://github.com/Ruma-AI/ruma-backend)
+<hr />
 </details>
 
 <details>
 <summary><b>Ecostyle</b></summary>
+
+<hr />
 An environmental education project that promotes recycling through a mobile application and an interactive card game, developed for the Indonesian Student Innovation and Entrepreneurship Festival (FIKSI) competition.
 
 <table>
@@ -107,10 +117,13 @@ An environmental education project that promotes recycling through a mobile appl
 - **Skills & Technologies**: `PWA` · `AR.js` · `A-Frame` · `Next.js` · `Blender`
 
 - **Links**: [Repository](https://github.com/Anantadhirya/ecostyle) · [Demo](https://ecostyle.vercel.app/)
+<hr />
 </details>
 
 <details>
 <summary><b>Sigantara</b></summary>
+
+<hr />
 A Geographic Information System (GIS) that helps the government of Trimulyo Village record, manage, and visualize government-owned land.
 
 <table>
@@ -132,10 +145,13 @@ A Geographic Information System (GIS) that helps the government of Trimulyo Vill
 - **Skills & Technologies**: `Next.js` · `Firebase` · `Leaflet` · `GIS`
 
 - **Links**: [Repository](https://github.com/KKNYO007/sigantara)
+<hr />
 </details>
 
 <details>
 <summary><b>Scheto</b></summary>
+
+<hr />
 A collaborative scheduling web application that helps users manage personal schedules and coordinate events with others in shared groups.
 
 <table>
@@ -160,6 +176,7 @@ A collaborative scheduling web application that helps users manage personal sche
 - **Skills & Technologies**: `Next.js` · `Express.js` · `MongoDB` · `Data Structures`
 
 - **Links**: [Front-End Repository](https://github.com/Anantadhirya/fe-scheto) · [Back-End Repository](https://github.com/Anantadhirya/be-scheto)
+<hr />
 </details>
 
 ## Connect
